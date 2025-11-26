@@ -1,0 +1,73 @@
+JASVINDER KAUR
+Calgary, Canada T3N 2A5 | +1 (403)-613-1458 | jasilamba26@gmail.com| https://www.linkedin.com/in/jasvinder-kaur26/
+
+
+PROFESSIONAL SUMMARY
+
+Detail-oriented, proactive professional with over 9 years of experience in analytics, data analysis, and software support, with a strong foundation in SQL, Power BI, Python, and AI/ML technologies. Proven ability to collaborate with cross-functional teams, maintain data integrity, and implement process improvements. Adept at data extraction, reporting, and driving data-driven decisions. Currently enhancing skills through the Azure AI/ML Program to transition into AI/ML-focused roles. Strong analytical and problem-solving skills with a passion for driving business outcomes through innovative solutions.
+
+CORE COMPETENCIES
+•	AI/ML Tools: Python programming (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Plotly)
+•	Data Analytics: SQL, Power BI, Data Visualization
+•	Data Engineering: ETL, Data Pipelines, Big Data Technologies
+•	ETL Tools: Data Pipeline Management, AWS S3
+•	Cloud Platforms: Microsoft Azure, AWS
+•	Business Intelligence: Report Development, Dashboards, Data Modeling
+•	Software Support: Zendesk, JIRA, Confluence, MIRO, Bug Reporting
+•	Software Support Tools: Zendesk, Bug Tracking
+•	Project Management: Requirements Gathering, Process Optimization, UAT, Documentation
+•	Soft Skills: Cross-functional Collaboration, Client Training, Troubleshooting, Escalation Handling
+
+PROFESSIONAL EXPERIENCE
+
+BMO Radicle, Calgary, AB
+Software Support Specialist
+03/2022 - 06/2025
+
+•	Optimized data collection by designing and deploying 50+ customized digital forms for field data capture, improving accuracy and efficiency in carbon credit generation.
+•	Reduced downtime by 25% through real-time troubleshooting and issue resolution during field data collection, ensuring seamless operations for clients.
+•	Enhanced project tracking by creating Power BI dashboards that improved project visibility and client KPIs, contributing to a 15% improvement in project decision-making efficiency.
+•	Led training sessions for 100+ internal staff and clients, improving their platform usage and boosting user adoption by 20%.
+•	Improved data flow by supporting the ETL pipeline for over 200GB of data transferred to AWS S3, ensuring compliance with data privacy regulations.
+•	Achieved 98% user satisfaction in User Acceptance Testing (UAT) by ensuring that platform updates and new features met client needs and expectations.
+
+Amazon Canada, Calgary, AB
+IT Support Technician
+05/2018 - 08/2020
+
+•	Resolved over 4,500+ IT support tickets per quarter, achieving a 12% reduction in closing times and significantly improving team productivity.
+•	Led a team of 5 technicians in performing IT audits for over 4,500 assets, ensuring network security and compliance with company standards.
+•	Decreased system downtime by 30% through proactive monitoring and troubleshooting of network-related issues, utilizing Sigma, NARF, and Syslog.
+•	Implemented SLIM tool to manage security and maintenance of 280 thin clients, resulting in a 20% increase in productivity and reduced security vulnerabilities.
+
+Pason Systems, Calgary, AB
+Network Analyst Intern
+12/2017 - 01/2018
+
+•	Managed network device inventory and performed IP identification using CISCO CLI.
+•	Created annual inventory dashboards to improve budget maintenance and operational efficiency.
+
+Adobe Systems, India, Noida
+Sr. Technical Consultant
+11/2013 - 02/2017
+
+•	Troubleshot technical issues for live webinars, ensuring minimal disruption to client services.
+•	Utilized SQL scripts to analyze data and improve operational efficiencies.
+•	Delivered training and technical support to internal teams and clients, improving service delivery by 30%.
+
+Samsung, India, Noida
+Assistant Executive Customer Service
+01/2011 - 04/2013
+ 
+
+EDUCATION & CERTIFICATIONS
+
+Azure AI/ML Program (In Progress)
+Currently enrolled in the program to deepen knowledge in machine learning, neural networks, and data science applications in Azure.
+Microsoft Power BI Desktop Business Intelligence – Udemy, 01/2023
+Master of Big Data (MBD) Program – Trendy Tech, 01/2023
+Introduction to SQL – EdX IBM, 05/2022
+Microsoft Certified: Azure Fundamentals – Seneca College, 06/2021
+CISCO Certified Network Associate (CCNA), 01/2017
+ITILv3 Foundation Certification, 01/2015
+Bachelor of Technology (B. Tech.), Electronics & Communication, 01/2011
